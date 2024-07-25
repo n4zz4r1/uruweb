@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Redirect to remove .php extension
+RewriteCond %{THE_REQUEST} \s/([^.]+)\.php[\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
+
+# Internally map the clean URL to .php file
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [L]
