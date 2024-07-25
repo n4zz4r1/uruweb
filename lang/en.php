@@ -18,7 +18,7 @@ $lang = array(
     "hauntedbricks.detail.title3" => "Fun for All Ages",
     "hauntedbricks.detail.desc3" => "Designed to be enjoyed by puzzle lovers of all ages, perfect for a quick gaming session or an extended playtime.",
 
-    "copyright" => "All rights reserved &copy; Uru Studios 2024 - <a href=\"mailto:contact@urustudios.com\">contact@urustudios.com</a>",
+    "copyright" => "All rights reserved &copy; Uru Studios LTDA 2024 - <a href=\"mailto:contact@urustudios.com\">contact@urustudios.com</a>",
 
     "termsofservice" => "Terms of Services",
     "privacy" => "Privacy Policy",

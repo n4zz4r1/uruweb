@@ -18,7 +18,7 @@ $lang = array(
     "hauntedbricks.detail.title3" => "Diversão para Todas as Idades",
     "hauntedbricks.detail.desc3" => "Desenhado para ser apreciado por amantes de quebra-cabeças de todas as idades, perfeito para uma sessão de jogo rápida ou um tempo de jogo prolongado.",
 
-    "copyright" => "Todos os direitos reservados &copy; Uru Studios 2024 - <a href=\"mailto:contact@urustudios.com\">contact@urustudios.com</a>",
+    "copyright" => "Todos os direitos reservados &copy; Uru Studios LTDA 2024 - <a href=\"mailto:contact@urustudios.com\">contact@urustudios.com</a>",
 
     "termsofservice" => "Termos de Serviço",
     "privacy" => "Política de Privacidade",
