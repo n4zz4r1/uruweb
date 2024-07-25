@@ -68,7 +68,7 @@
             <div class="column is-12 is-6-desktop">
 
                <div class="mobile-container">
-               <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true }'>
+               <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": false }'>
                <div class="carousel-cell">
                <img src="images/hauntedbricks1.png" alt="Game Image 1">
                </div>

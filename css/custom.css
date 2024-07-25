@@ -11,8 +11,8 @@ body {
 }
 .mobile-container {
     width: 100%;
-    max-width: 360px;
-    height: 640px;
+    max-width: 280px;
+    height: 500px;
     border: 16px solid #b9b9b9;
     border-radius: 36px;
     background-color: white;
