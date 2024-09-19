@@ -43,8 +43,8 @@ if (file_exists($lang_file)) {
 }
 
 $options = [
-    'en' => 'English 🇺🇸',
-    'pt-BR' => 'Português 🇧🇷',
+    'en' => 'English',
+    'pt-BR' => 'Português',
 ];
 
 ?>
@@ -62,7 +62,6 @@ $options = [
     <link rel="stylesheet" href="/css/custom.css" />
     <link rel="stylesheet" href="/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/flickity.min.css" />
-
     <link rel="apple-touch-icon" sizes="180x180" href="/fav/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
