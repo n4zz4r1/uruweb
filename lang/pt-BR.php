@@ -29,7 +29,7 @@ $lang = array(
     "ants.detail.title3" => "Idle e Tower Defense",
     "ants.detail.desc3" => "Fortaleça suas defesas e veja sua colônia crescer, mesmo quando você não estiver jogando.",
 
-    "copyright" => "Todos os direitos reservados &copy; Uru Studios 2024 - <a href=\"mailto:contact@urustudios.com\">contact@urustudios.com</a>",
+    "copyright" => "Todos os direitos reservados &copy; Uru Studios Ltda | CNPJ: 38.381.669/0001-43 | <a href=\"mailto:contact@urustudios.com\">contact@urustudios.com</a>",
 
     "termsofservice" => "Termos de Serviço",
     "privacy" => "Política de Privacidade",
