@@ -29,7 +29,7 @@ $lang = array(
     "ants.detail.title3" => "Idle and Tower Defense",
     "ants.detail.desc3" => "Strengthen your defenses and watch your colony grow, even when you're not playing.",
 
-    "copyright" => "All rights reserved &copy; Uru Studios Ltda 2024 - <a href=\"mailto:contact@urustudios.com\">contact@urustudios.com</a>",
+    "copyright" => "Copyright 2024 &copy All rights reserved - Uru Studios Ltda<br>CNPJ: 38.381.669/0001-43<br>Contact: <a href=\"mailto:contact@urustudios.com\">contact@urustudios.com</a>",
 
     "termsofservice" => "Terms of Services",
     "privacy" => "Privacy Policy",
