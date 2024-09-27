@@ -32,13 +32,12 @@
                   </span>
                   <span><?php echo $lang['hauntedbricks.google']; ?></span>
                   </a>
-                  <button class="button disabled is-primary" disabled>
+                  <a class="button is-primary" href="https://apps.apple.com/us/app/haunted-bricks/id6692628903?platform=iphone">
                   <span class="icon is-small">
                   <i class="fa fa-apple"></i>
                   </span><?php echo $lang['hauntedbricks.apple']; ?><span>
-                  
                   </span>
-                  </button>
+                  </a>
                </div>
             </div>
          </div>

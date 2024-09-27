@@ -9,7 +9,7 @@ $lang = array(
 
     "hauntedbricks.title" => "Blocos Fantasmas",
     "hauntedbricks.subtitle" => "Um jogo de quebra-cabeça cativante, perfeito para passar o tempo, com personagens animados inspirados em animações clássicas e aventuras de RPG.",
-    "hauntedbricks.apple" => "Apple Store (Em Breve)",
+    "hauntedbricks.apple" => "Apple Store",
     "hauntedbricks.google" => "Google Play",
     "hauntedbricks.detail.title1" => "Aventura Emocionante",
     "hauntedbricks.detail.desc1" => "Junte-se a três jovens heróis enquanto eles enfrentam uma casa assombrada cheia de monstros de tijolos misteriosos!",

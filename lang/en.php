@@ -9,7 +9,7 @@ $lang = array(
 
     "hauntedbricks.title" => "Haunted Bricks",
     "hauntedbricks.subtitle" => "A captivating puzzle game perfect for killing time, featuring animated characters inspired by classic animations and RPG adventures.",
-    "hauntedbricks.apple" => "Apple Sore (Soon)",
+    "hauntedbricks.apple" => "Apple Sore",
     "hauntedbricks.google" => "Google Play",
     "hauntedbricks.detail.title1" => "Thrilling Adventure",
     "hauntedbricks.detail.desc1" => "Join three young heroes as they take on a haunted house filled with mysterious brick monsters!",
