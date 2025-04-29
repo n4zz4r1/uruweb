@@ -70,7 +70,7 @@ $options = [
 </head>
 
 <body>
-    <nav class="navbar is-fixed-top" style="background-color: var(--bulma-scheme-main-bis);">
+    <nav class="navbar is-fixed-top" style="background-color: black;">
         <div class="navbar-brand">
             <a class="navbar-item" href="/"><img style="min-height: 50px; width: auto;" src="./logo.png" alt="Haunted Bricks Logo"></a>
             <div class="navbar-item is-right">

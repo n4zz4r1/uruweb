@@ -2,10 +2,13 @@
 
 <div>
 
-   <section class="section is-black" style="background-image: url('back.png'); background-size: cover; background-position: center;">
+   <section class="section " style="background-color: black; background-size: cover; background-position: center;">
       <div class="container">
          <div class="is-vcentered columns is-multiline">
-            <div class="column is-8 is-8-desktop mb-4">
+         <div class="column is-4 mb-4">
+            <img src="images/blocos-all.png" alt="Game Icon"  style="max-width:auto; max-height: 250px;">
+         </div>
+         <div class="column is-8 mb-4">
                <h2 id="about-title" class="has-text-white mt-2 mb-3 is-size-1 is-size-3-mobile has-text-weight-bold"><?php echo $lang['title.1']; ?></h2>
                <p id="about-text1" class="has-text-white"><?php echo $lang['title.2']; ?></p>
                <p id="about-text2" class="has-text-white"><?php echo $lang['title.3']; ?></p>
@@ -16,10 +19,9 @@
          </div>
       </div>
    </section>
-    
-   <section class="section" >
+   <section class="section" style="background-color: hsl(217.5deg 14.29% 10.98%); background-image: url('images/bouncy-bg-bw.png'); background-size: cover; background-position: center; margin: 15px;" >
       <div class="container">
-         <div class="mb-6 pb-3 columns is-multiline">
+         <div class="mb-6 columns is-multiline">
             <div class="column is-12 is-6-desktop mx-auto has-text-centered">
             <h2 class="mb-4 is-size-1 is-size-3-mobile has-text-weight-bold">
             <img src="images/haunted-icon.png" alt="Game Icon" style="max-width:40px;">
@@ -85,9 +87,9 @@
 
          </div>
       </div>
-   </section>   
+   </section>
 
-   <section class="section " style="background-color: hsl(217.5deg 14.29% 10.98%);" >
+   <section class="section" style="background-color: hsl(217.5deg 14.29% 10.98%); background-image: url('images/spiders-bg-bw.png'); background-size: cover; background-position: center; margin: 15px" >
       <div class="container">
          <div class="mb-6 pb-3 columns is-multiline">
             <div class="column is-12 is-6-desktop mx-auto has-text-centered">
